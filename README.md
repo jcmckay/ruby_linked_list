@@ -1,1 +1,1 @@
-# ruby_linked_list
+# A project for learning.
